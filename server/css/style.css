@@ -60,8 +60,12 @@ label {
 	padding-left: 50px;
 }
 form {
-	padding-left: 550px;
-	padding-top: 50px;
+	text-align: center;
+	color: #00B3FF;
+	
+}
+center-input {
+	margin-left: 40px;
 }
 s-button {
 	display: block;
@@ -89,6 +93,9 @@ stats-frame {
 	max-height: 512px;
 	color: #00B3FF;
 	margin-top: 4px;
+}
+text-center {
+	
 }
 #name-header {
 	text-align: center;
